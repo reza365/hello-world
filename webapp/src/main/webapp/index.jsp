@@ -10,6 +10,8 @@
 
 <H2>This is a Medium Header - This is another change</H2>
 
+<H3>this is from maven-tomcat project 3</>
+
 <BR> <B><I>This is a new sentence without a paragraph break, in bold italics.</I></B>
 
 <HR>
